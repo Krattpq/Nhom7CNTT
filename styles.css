@@ -149,64 +149,27 @@ h1{
     padding-top: 50px;
 }
 /*     tailieu         */
+.tailieu{
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    padding-top: 100px;
+    flex-basis: 70%;
+    background: #fff;
+    margin-bottom: 5%;
+    margin: auto;
+    box-sizing: border-box;
+    padding-top: 30px;
+    width: 90%;
+    line-height: 27px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #000000;
+}
 .tailieu img{
     display: block; margin-left: auto; margin-right: auto;
     width: 67%;
     border-radius: 5px;
-}
-.kythuatlaptrinh{
-    flex-basis: 70%;
-    background: #fff;
-    margin-bottom: 5%;
-    margin: auto;
-    box-sizing: border-box;
-    padding-top: 30px;
-    width: 90%;
-    line-height: 27px;
-    padding-left: 30px;
-    padding-right: 30px;
-    color: #000000;
-    text-align: justify;
-}
-.kythuatlaptrinh p{
-    padding-left: 30px;
-}
-.giaithuatlaptrinh{
-    flex-basis: 70%;
-    background: #fff;
-    margin-bottom: 5%;
-    margin: auto;
-    box-sizing: border-box;
-    padding-top: 30px;
-    width: 90%;
-    line-height: 27px;
-    padding-left: 30px;
-    padding-right: 30px;
-    color: #000000;
-    text-align: justify;
-}
-.giaithuatlaptrinh p2{
-    padding-left: 30px;
-}
-.giaithuatlaptrinh p{
-    padding-left: 60px;
-}
-.Algorithm{
-    flex-basis: 70%;
-    background: #fff;
-    margin-bottom: 5%;
-    margin: auto;
-    box-sizing: border-box;
-    padding-top: 30px;
-    width: 90%;
-    line-height: 27px;
-    padding-left: 30px;
-    padding-right: 30px;
-    color: #000000;
-    text-align: justify;
-}
-.Algorithm p{
-    padding-left: 30px;
 }
 /*          website                  */
 .websites{
