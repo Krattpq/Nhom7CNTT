@@ -161,7 +161,8 @@ h1{
     padding-top: 50px;
 }
 /*     tailieu         */
-.tailieu{
+.tailieu
+    border-radius: 20px;
     width: 80%;
     margin: auto;
     text-align: left;
