@@ -372,3 +372,31 @@ p1{
   .snowflake:nth-of-type(11) .inner {
     animation-delay: 4s;
   }
+  .snowflake:nth-of-type(12) {
+    left: 75%;
+    animation-delay: 3.5s;
+  }
+  .snowflake:nth-of-type(12) .inner {
+    animation-delay: 2s;
+  }
+  .snowflake:nth-of-type(13) {
+    left: 15%;
+    animation-delay: 1.5s;
+  }
+  .snowflake:nth-of-type(13) .inner {
+    animation-delay: 2s;
+  }
+  .snowflake:nth-of-type(14) {
+    left: 35%;
+    animation-delay: 0.5s;
+  }
+  .snowflake:nth-of-type(14) .inner {
+    animation-delay: 4s;
+  }
+  .snowflake:nth-of-type(15) {
+    left: 5%;
+    animation-delay: 3.5s;
+  }
+  .snowflake:nth-of-type(15) .inner {
+    animation-delay: 2s;
+  }
