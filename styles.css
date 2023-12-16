@@ -160,6 +160,7 @@ h1{
     line-height: 27px;
     padding-top: 50px;
 }
+
 /*     tailieu         */
 .tailieu{
     border-radius: 20px;
@@ -170,7 +171,7 @@ h1{
     flex-basis: 70%;
     background: #fff;
     margin-bottom: 5%;
-    margin: auto;
+    margin: auto; 
     box-sizing: border-box;
     padding-top: 30px;
     width: 90%;
@@ -184,6 +185,7 @@ h1{
     width: 67%;
     border-radius: 5px;
 }
+
 /*          website                  */
 .websites{
     width: 80%;
@@ -226,7 +228,7 @@ p1{
 .snowflake {
     color: #fff;
     font-size: 1em;
-    font-family:'Be Vietnam Pro', sans-serif;
+    font-family: 'Be Vietnam Pro', sans-serif;
     text-shadow: 0 0 5px #000;
   }
   
@@ -271,7 +273,7 @@ p1{
   }
   
   .snowflake .inner {
-    animation-duration: 10s;
+    animation-duration: 7s;
     animation-iteration-count: infinite;
     animation-name: snowflakes-fall;
     animation-play-state: running;
@@ -373,6 +375,7 @@ p1{
   .snowflake:nth-of-type(11) .inner {
     animation-delay: 4s;
   }
+/*theem*/
   .snowflake:nth-of-type(12) {
     left: 75%;
     animation-delay: 3.5s;
