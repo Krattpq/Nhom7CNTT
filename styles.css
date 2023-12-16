@@ -103,7 +103,14 @@ nav .fa-solid{
         padding: 30px;
     }
 }
-
+.main{
+  min-height: 100vh;
+  width: 100%;
+  background-image: url(images/Background_home.jpg);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
 /*---members---*/
 .members{
     width: 80%;
